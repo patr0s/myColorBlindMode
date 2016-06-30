@@ -2,7 +2,6 @@
 ## Author: @project-author@
 ## Title: myColorblindMode|cFF8080FF™|r
 ## Notes: |cFF8080FFRévision @project-release-BETA@|r|nModification du fonctionnement de l'option Colorblind mode.
-## SavedVariables: SavedOptions, QQI_DB, ArchaeologyDB, ToggleTreasuresSettings
 ## Version: @project-revision@
 ## X-Revision: @project-revision@
 ## X-Date: @project-date@
